@@ -1,0 +1,38 @@
+[
+    {
+      "id": "P001",
+      "name": "EcoFriendly Water Bottle",
+      "description": "Reusable water bottle made from BPA-free plastic.",
+      "price": 255.99,
+      "stock": 20
+    },
+    {
+      "id": "P002",
+      "name": "Wireless Earbuds",
+      "description": "Noise-cancelling Bluetooth earbuds with 8-hour battery life.",
+      "price": 59.99,
+      "stock": 0
+    },
+    {
+      "id": "P003",
+      "name": "Yoga Mat",
+      "description": "Non-slip mat suitable for all yoga practices.",
+      "price": 25.50,
+      "stock": 50
+    },
+    {
+      "id": "P004",
+      "name": "Smart LED Bulb",
+      "description": "Color-changing bulb controllable via smartphone.",
+      "price": 12.00,
+      "stock": 10
+    },
+    {
+      "id": "P005",
+      "name": "Portable Charger",
+      "description": "10,000mAh power bank with fast charging support.",
+      "price": 29.90,
+      "stock": 35
+    }
+  ]
+  
